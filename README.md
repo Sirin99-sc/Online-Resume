@@ -1,2 +1,2 @@
 # Online-Resume
-Assignment from NullStack Technology
+This depicts my academics, courses, trainings etc.
